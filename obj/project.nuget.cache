@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbaAMzib60+pLGSpo6VXgQ//irv7eheCvVqTSFGqB6ZC1ovKonytEIwqnM78Do0aJ057LEpZGPXT+Adr0Fq9zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahendran Balu\\source\\repos\\sampledemo1\\sampledemo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahendran Balu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
